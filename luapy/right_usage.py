@@ -1,4 +1,4 @@
-from main import task,function,wait,math,run_lua,os_exit,require
+from luapy.main import task,function,wait,math,run_lua,os_exit,require
 
 task.wait() #It works cuz the value for number is 1 when it's empty.
 
