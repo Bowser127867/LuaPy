@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: luapy
+Version: 0.1.1
+Summary: A Lua-inspired scripting environment for Python
+Home-page: https://github.com/Bowser127867/LuaPy
+Author: Bowser127867
+Author-email: kenny.animator.dotexe@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: lupa
+
+# luapy
+
+A Lua-inspired scripting environment for Python.
+
+## Installation
+```bash
+pip install luapy
