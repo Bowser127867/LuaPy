@@ -1,4 +1,4 @@
-from main import task,time,function,wait,math,run_lua,os_exit,require
+from luapy.main import task,time,function,wait,math,run_lua,os_exit,require
 
 #Set h to Any (which is object.)
 
