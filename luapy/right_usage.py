@@ -31,6 +31,6 @@ if __name__ == "__main__":
     greet("Python User")  # Output: Hello, Python User!
     print(add(5, 3))  # Output: 8
     require("time") # We used time but you can use something else that require can find.
-    run_lua("./tests/lua_test/main.lua") # Now with LuaPy v2 you can execute lua files in python using run_lua function.
+    run_lua("./tests/lua_test/main.lua") # Now with LuaPy you can execute lua files in python using run_lua function.
     os_exit(111) # sys.exit() in lua.
     
